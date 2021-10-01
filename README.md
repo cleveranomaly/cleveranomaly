@@ -6,7 +6,7 @@
   + Can be blunt and rude in some contexts. Have a hatred towards many things.
 - 🌟 Interests: 
   + Artificial Intelligence + Machine Learning
-- 📫 Contact:
+- 📫 Connections:
   + GitHub: `cleveranomaly`
   + Discord: `cleveranomaly#8814`
   + Reddit: `u/cleveranomaly`
