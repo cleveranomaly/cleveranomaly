@@ -9,4 +9,4 @@
   + Discord: `cleveranomaly#8814`
   + Reddit: `u/cleveranomaly`
 
-> Being coldhearted and living in desolation. What a good thing.
+> Being coldhearted and living in solitude. What a good thing.
