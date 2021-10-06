@@ -1,10 +1,8 @@
 ## ℹ Information
-- 😄 Pronoun: 'they'
-- ⚡ Fun fact:
-  + I'm an anomalous, peculiar and weird human.
-  + Can be blunt and rude. Have a hatred (or personal bias) towards many things.
-- 🌟 Interests: Artificial Intelligence + Machine Learning
-- 📫 Connections:
+An anomalous and peculiar human. Ambitious but quirky.
++ ⭐ **Pronoun**: __they__ (don't use __he__)
++ 🎯 **Interests**: Programming + Robotics
++ 📫 Connections:
   + GitHub: `cleveranomaly`
   + Discord: `cleveranomaly#8814`
   + Reddit: `u/cleveranomaly`
