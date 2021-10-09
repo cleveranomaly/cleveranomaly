@@ -1,10 +1,8 @@
 ## ℹ Information
-An anomalous and peculiar human. Ambitious but quirky.
-+ ⭐ **Pronoun**: __they__ (don't use __he__)
+An anomalous, peculiar and quirky human which is highly misanthropic.
++ ⭐ **Pronoun**: __they__
 + 🎯 **Interests**: Programming + Robotics
 + 📫 Connections:
   + GitHub: `cleveranomaly`
-  + Discord: `cleveranomaly#8814`
+  + Discord: `cleveranomaly#9688`
   + Reddit: `u/cleveranomaly`
-
-> Being coldhearted and living in solitude. What a good thing.
