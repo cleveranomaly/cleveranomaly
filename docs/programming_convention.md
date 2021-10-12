@@ -1,8 +1,6 @@
 # cleveranomaly's General Programming Convention
-Latest edit: October 4th, 2021. Original edition.
-
 ## Preamble
-Each programming languages have distinct guidelines for code style. Such difference in code style might potentially increase the difficulty to switch programming languages.<br> 
+Each programming languages have distinct guidelines for code style. Such difference in code style might potentially increase the difficulty to switch programming languages.<br>
 This convention aims to generalize the code style which can be expanded upon and slightly altered for personalization purposes. This convention does not target a specific programming language, meaning with minor modifications and additional personal guidelines, this convention can be applied to various programming languages.
 
 ## Object-oriented programming guidelines
