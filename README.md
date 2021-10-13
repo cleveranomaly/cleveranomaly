@@ -1,8 +1,8 @@
-# 👋🌏 Hello, world.
-An anomalous, peculiar and quirky human (which likes to hate everything).
-+ ⭐ **Pronoun**: ❔ __they__
-+ 🎯 **Interests**: 👩‍💻 __Programming__ + 🤖 __Robotics__
-+ 📫 **Connections**:
-  + GitHub: `cleveranomaly`
-  + Discord: `cleveranomaly#9688`
-  + Reddit: `u/cleveranomaly`
+# 👋🌏 hello, world.
+an anomalous, peculiar and quirky antihumanism human. supports nihilism.
++ ⭐ **pronoun**: ❔ __they__
++ 🎯 **interests**: 👩‍💻 __programming__ + 🤖 __robotics__
++ 📫 **connections**:
+  + github: `cleveranomaly`
+  + discord: `cleveranomaly#9688`
+  + reddit: `u/cleveranomaly`
