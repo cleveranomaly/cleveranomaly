@@ -2,7 +2,7 @@
 
 ```
 an anomalous, peculiar and quirky antihumanism human. supports nihilism.
-+ ⭐ pronoun: ❔ they
++ ⭐ pronoun: ❔ they / 🎯 anomaly
 + 🎯 interests: 👩‍💻 programming + 🤖 robotics
 
 connections/accounts:
