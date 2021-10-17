@@ -1,9 +1,11 @@
 # 👋🌏 hello, world.
-an anomalous, peculiar and quirky antihumanism human. supports nihilism.
-+ ⭐ pronoun: ❔ they / 🎯 anomaly
-+ 🎯 interests: 👩‍💻 programming + 🤖 robotics
+> shall the artificial overwhelm the humans
 
-connections/accounts:
+an anomalous, peculiar and quirky human.
++ ⭐ **pronoun**: ❔ __they__ / 🎯 __anomaly__
++ 🎯 **interests**: 👩‍💻 __programming__ + 🤖 __robotics__
+
+## connections / related accounts
 + github: 'cleveranomaly'
 + reddit: 'u/cleveranomaly'
 + discord: 'cleveranomaly#9688'
