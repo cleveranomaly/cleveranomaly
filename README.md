@@ -1,7 +1,7 @@
 # 👋🌏 hello, world.
 > shall the artificial overwhelm the humans
 
-an anomalous, peculiar and quirky human.
+an anomalous, peculiar and quirky human. a realist and skepticist as well.
 + ⭐ **pronoun**: ❔ __they__ / 🎯 __anomaly__
 + 🎯 **interests**: 👩‍💻 __programming__ + 🤖 __robotics__
 
