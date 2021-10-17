@@ -1,5 +1,5 @@
 # 👋🌏 hello, world.
-> shall the artificial overwhelm the humans
+> shall the artificials overwhelm the humans
 
 an anomalous, peculiar and quirky human. a realist and skepticist as well.
 + ⭐ **pronoun**: ❔ __they__ / 🎯 __anomaly__
