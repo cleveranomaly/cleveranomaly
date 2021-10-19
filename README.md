@@ -10,7 +10,7 @@
   <li>🎯 <strong>interests</strong>: 👩‍💻 <u>programming</u> + 🤖 <u>robotics</u></li>
 </ul>
 
-<h2>connections / related accounts</h2>
+<h2>🔗 connections / related accounts</h2>
 <ul>
   <li>github: <code>cleveranomaly</code></li>
   <li>reddit: <code>u/cleveranomaly</code></li>
