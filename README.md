@@ -1,5 +1,5 @@
 <h1 align="center">👋🌏 hello, world.</h1>
-<h3 align="center"><strong>an anomalous, misanthropic, peculiar and quirky human/realist/solipist.</strong></h3>
+<h3 align="center"><strong>an anomalous, misanthropic, peculiar and quirky human/realist/solipsist.</strong></h3>
 
 <h2>💡 information</h2>
 <ul>
