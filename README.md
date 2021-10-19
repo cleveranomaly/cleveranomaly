@@ -1,12 +1,9 @@
-<h1 align="center">
-  👋🌏 hello, world.
-</h1>
-
-<h4 align="center"><strong>an anomalous, peculiar and quirky human. also a realist and skepticist.</strong></h4>
+<h1 align="center">👋🌏 hello, world.</h1>
+<h3 align="center"><strong>an anomalous, misanthropic, peculiar and quirky human/realist/solipist.</strong></h3>
 
 <h2>💡 information</h2>
-<ul> 
-  <li>⭐ <strong>pronoun</strong>: ❔ <u>they</u> / 🎯 <u>anomaly</u></li>
+<ul>
+  <li>⭐ <strong>pronoun</strong>: ❔ <u>they</u></li>
   <li>🎯 <strong>interests</strong>: 👩‍💻 <u>programming</u> + 🤖 <u>robotics</u></li>
 </ul>
 
