@@ -2,11 +2,9 @@
   👋🌏 hello, world.
 </h1>
 
-<h3 align="center">
-  <strong>an anomalous, peculiar and quirky human. also a realist and skepticist.</strong><br>
-  <i>shall the artificials overwhelm the humans</i>
-</h3>
+<h4 align="center"><strong>an anomalous, peculiar and quirky human. also a realist and skepticist.</strong></h4>
 
+<h2>💡 information</h2>
 <ul> 
   <li>⭐ <strong>pronoun</strong>: ❔ <u>they</u> / 🎯 <u>anomaly</u></li>
   <li>🎯 <strong>interests</strong>: 👩‍💻 <u>programming</u> + 🤖 <u>robotics</u></li>
