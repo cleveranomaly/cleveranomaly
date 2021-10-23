@@ -5,6 +5,11 @@
 <ul>
   <li>⭐ <strong>pronoun</strong>: ❔ <u>they</u></li>
   <li>🎯 <strong>interests</strong>: 👩‍💻 <u>programming</u> + 🤖 <u>robotics</u></li>
+  <li><strong>fun facts</strong>: 
+    <ul>
+      <li>the whole furry fandom sucks for me</li>
+    </ul>
+  </li>
 </ul>
 
 <h2>🔗 connections / related accounts</h2>
