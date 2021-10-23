@@ -4,7 +4,8 @@
 <h2>💡 information</h2>
 <ul>
   <li>⭐ <strong>pronoun</strong>: ❔ <u>they</u></li>
-  <li>🎯 <strong>interests</strong>: 👩‍💻 <u>programming</u> + 🤖 <u>robotics</u></li>
+  <li>🏹 <strong>interests</strong>: 👩‍💻 <u>programming</u> + 🤖 <u>robotics</u></li>
+  <li>🎯 <strong>current projects</strong>: 🌳🌐🧠 (natural language parser + understanding)</li>
   <li><strong>fun facts</strong>: 
     <ul>
       <li>the whole furry fandom sucks for me</li>
